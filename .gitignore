@@ -1,0 +1,11 @@
+# Build artifacts
+bin/
+*.o
+a.out
+core
+# OS junk
+.DS_Store
+Thumbs.db
+# Editors
+.vscode/
+.idea/
