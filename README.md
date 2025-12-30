@@ -1,3 +1,6 @@
+
+![alt text](42Piscine.jpg)
+
 # My42Piscine
 
 This repository contains my solutions and test programs for 42 C Piscine & exam preparation.
